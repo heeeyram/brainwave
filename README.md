@@ -8,7 +8,7 @@ Brainwave is a modern UI/UX website developed using React.js and Tailwind CSS. I
 
 To get started with Brainwave UI Design, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/MAVRICK-1/Brainwave.git```
+1. Clone the repository: ```git clone https://github.com/heeeyram/brainwave```
 2. Navigate to the project directory: ```cd brainwave```
 3. Install dependencies: ```npm install``` or ```yarn install```
 4. Start the development server: ```npm run dev``` or ```yarn start```
